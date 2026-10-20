@@ -1,0 +1,181 @@
+participant_id,task,completed,time_seconds,error_count
+P01,Login,1,151.4,3
+P01,Cari Jadwal,0,194.5,4
+P01,Cari Nilai,1,168.9,2
+P01,Ubah Profil,0,224.2,1
+P01,Unduh KRS,1,160.7,2
+P02,Login,0,229.9,3
+P02,Cari Jadwal,1,88.3,0
+P02,Cari Nilai,0,176.3,2
+P02,Ubah Profil,1,102.5,1
+P02,Unduh KRS,1,137.2,0
+P03,Login,1,128.5,1
+P03,Cari Jadwal,0,189.4,2
+P03,Cari Nilai,0,186.8,1
+P03,Ubah Profil,0,227.6,3
+P03,Unduh KRS,1,130.8,1
+P04,Login,1,93.5,1
+P04,Cari Jadwal,1,53.0,3
+P04,Cari Nilai,0,139.2,0
+P04,Ubah Profil,1,84.7,0
+P04,Unduh KRS,1,86.9,0
+P05,Login,1,149.4,0
+P05,Cari Jadwal,1,88.4,1
+P05,Cari Nilai,1,118.1,0
+P05,Ubah Profil,0,204.8,2
+P05,Unduh KRS,1,133.9,0
+P06,Login,0,210.8,4
+P06,Cari Jadwal,1,131.0,1
+P06,Cari Nilai,1,106.0,1
+P06,Ubah Profil,1,73.8,1
+P06,Unduh KRS,1,103.9,0
+P07,Login,1,127.1,2
+P07,Cari Jadwal,1,151.3,4
+P07,Cari Nilai,1,144.5,0
+P07,Ubah Profil,1,161.7,1
+P07,Unduh KRS,1,149.2,4
+P08,Login,0,173.4,5
+P08,Cari Jadwal,0,212.8,0
+P08,Cari Nilai,0,190.6,4
+P08,Ubah Profil,0,211.0,2
+P08,Unduh KRS,0,219.7,0
+P09,Login,1,119.1,0
+P09,Cari Jadwal,1,122.4,3
+P09,Cari Nilai,1,105.9,3
+P09,Ubah Profil,0,208.5,3
+P09,Unduh KRS,1,78.0,2
+P10,Login,1,115.2,0
+P10,Cari Jadwal,1,134.3,1
+P10,Cari Nilai,1,102.0,2
+P10,Ubah Profil,1,124.5,2
+P10,Unduh KRS,1,138.8,0
+P11,Login,1,139.9,2
+P11,Cari Jadwal,0,140.7,3
+P11,Cari Nilai,0,211.1,2
+P11,Ubah Profil,0,186.3,0
+P11,Unduh KRS,0,204.7,1
+P12,Login,1,98.8,1
+P12,Cari Jadwal,1,119.5,1
+P12,Cari Nilai,1,90.8,2
+P12,Ubah Profil,0,184.6,0
+P12,Unduh KRS,1,65.6,0
+P13,Login,0,164.8,2
+P13,Cari Jadwal,1,82.5,1
+P13,Cari Nilai,0,168.0,0
+P13,Ubah Profil,0,166.9,1
+P13,Unduh KRS,1,107.0,0
+P14,Login,1,156.1,1
+P14,Cari Jadwal,1,183.7,1
+P14,Cari Nilai,0,230.6,4
+P14,Ubah Profil,1,117.0,2
+P14,Unduh KRS,0,215.9,4
+P15,Login,1,75.2,1
+P15,Cari Jadwal,1,92.0,1
+P15,Cari Nilai,0,143.8,2
+P15,Ubah Profil,1,118.7,0
+P15,Unduh KRS,1,85.9,1
+P16,Login,1,106.1,0
+P16,Cari Jadwal,1,103.0,0
+P16,Cari Nilai,1,74.8,1
+P16,Ubah Profil,1,90.4,1
+P16,Unduh KRS,1,82.8,0
+P17,Login,1,134.5,1
+P17,Cari Jadwal,1,132.1,1
+P17,Cari Nilai,1,131.7,2
+P17,Ubah Profil,0,178.4,2
+P17,Unduh KRS,0,193.7,1
+P18,Login,0,216.2,1
+P18,Cari Jadwal,1,141.9,4
+P18,Cari Nilai,1,130.0,2
+P18,Ubah Profil,1,150.6,5
+P18,Unduh KRS,0,177.9,5
+P19,Login,1,69.4,0
+P19,Cari Jadwal,0,151.9,2
+P19,Cari Nilai,1,89.7,3
+P19,Ubah Profil,0,195.1,2
+P19,Unduh KRS,1,128.1,0
+P20,Login,1,113.5,0
+P20,Cari Jadwal,1,92.0,1
+P20,Cari Nilai,1,80.3,0
+P20,Ubah Profil,1,87.9,0
+P20,Unduh KRS,1,75.5,1
+P21,Login,1,154.0,1
+P21,Cari Jadwal,1,128.9,0
+P21,Cari Nilai,0,175.0,3
+P21,Ubah Profil,1,147.1,3
+P21,Unduh KRS,1,132.1,3
+P22,Login,0,174.4,5
+P22,Cari Jadwal,0,181.6,3
+P22,Cari Nilai,0,178.0,3
+P22,Ubah Profil,0,186.4,3
+P22,Unduh KRS,1,128.5,5
+P23,Login,0,216.0,1
+P23,Cari Jadwal,0,185.8,1
+P23,Cari Nilai,1,105.9,0
+P23,Ubah Profil,1,130.7,1
+P23,Unduh KRS,1,87.6,1
+P24,Login,0,180.7,3
+P24,Cari Jadwal,1,131.1,1
+P24,Cari Nilai,1,111.7,0
+P24,Ubah Profil,0,217.6,4
+P24,Unduh KRS,0,174.4,0
+P25,Login,1,111.5,1
+P25,Cari Jadwal,1,90.3,1
+P25,Cari Nilai,1,84.6,2
+P25,Ubah Profil,1,77.0,1
+P25,Unduh KRS,1,79.6,0
+P26,Login,0,202.1,2
+P26,Cari Jadwal,0,170.9,2
+P26,Cari Nilai,0,201.4,3
+P26,Ubah Profil,0,198.8,0
+P26,Unduh KRS,0,204.6,4
+P27,Login,1,94.2,2
+P27,Cari Jadwal,1,144.6,1
+P27,Cari Nilai,1,83.9,1
+P27,Ubah Profil,1,128.7,0
+P27,Unduh KRS,1,104.2,0
+P28,Login,0,192.8,1
+P28,Cari Jadwal,0,192.0,2
+P28,Cari Nilai,0,218.7,0
+P28,Ubah Profil,0,194.8,4
+P28,Unduh KRS,1,139.1,0
+P29,Login,1,148.9,3
+P29,Cari Jadwal,1,101.6,0
+P29,Cari Nilai,1,73.8,0
+P29,Ubah Profil,1,106.7,0
+P29,Unduh KRS,1,111.9,2
+P30,Login,1,78.6,0
+P30,Cari Jadwal,1,124.9,3
+P30,Cari Nilai,1,144.2,2
+P30,Ubah Profil,1,158.3,1
+P30,Unduh KRS,1,102.7,1
+P31,Login,1,70.3,0
+P31,Cari Jadwal,0,183.8,1
+P31,Cari Nilai,1,88.8,0
+P31,Ubah Profil,1,124.3,0
+P31,Unduh KRS,1,115.4,2
+P32,Login,1,149.2,3
+P32,Cari Jadwal,1,137.0,1
+P32,Cari Nilai,0,186.0,4
+P32,Ubah Profil,0,220.6,1
+P32,Unduh KRS,1,133.1,0
+P33,Login,0,198.1,2
+P33,Cari Jadwal,0,150.1,4
+P33,Cari Nilai,1,93.1,1
+P33,Ubah Profil,1,122.7,3
+P33,Unduh KRS,0,153.2,0
+P34,Login,1,103.2,2
+P34,Cari Jadwal,1,135.0,0
+P34,Cari Nilai,0,201.9,3
+P34,Ubah Profil,0,183.2,2
+P34,Unduh KRS,1,132.9,2
+P35,Login,1,88.4,1
+P35,Cari Jadwal,1,77.8,1
+P35,Cari Nilai,1,104.0,1
+P35,Ubah Profil,1,77.6,0
+P35,Unduh KRS,1,75.1,1
+P36,Login,1,102.8,0
+P36,Cari Jadwal,1,78.1,1
+P36,Cari Nilai,1,102.5,0
+P36,Ubah Profil,1,94.6,0
+P36,Unduh KRS,1,40.0,0

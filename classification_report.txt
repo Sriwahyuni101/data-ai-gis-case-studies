@@ -1,0 +1,19 @@
+CLASSIFICATION REPORT — DATA SINTETIS, BUKAN ATRIBUSI LAPANGAN
+
+                                precision    recall  f1-score   support
+
+              Hard commodities       0.84      0.93      0.88        45
+                       Logging       0.95      0.93      0.94        45
+    Other natural disturbances       0.98      0.98      0.98        45
+         Permanent agriculture       0.61      0.60      0.61        45
+Settlements and infrastructure       0.74      0.69      0.71        45
+          Shifting cultivation       0.86      0.84      0.85        45
+                      Wildfire       0.96      0.98      0.97        45
+
+                      accuracy                           0.85       315
+                     macro avg       0.85      0.85      0.85       315
+                  weighted avg       0.85      0.85      0.85       315
+
+Accuracy: 0.851
+
+Model ini hanya membuktikan alur kerja kode pada data buatan. Jangan gunakan untuk mengatribusikan kejadian nyata.
